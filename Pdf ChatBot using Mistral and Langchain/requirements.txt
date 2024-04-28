@@ -1,0 +1,13 @@
+faiss-cpu
+torch
+transformers
+sentence-transformers
+langchain
+tqdm
+accelerate
+PyPDF2
+pypdf
+chromadb
+unidecode
+langchain-community
+
